@@ -19,9 +19,9 @@ FlatList – Untuk menampilkan daftar berita dengan performa optimal.
 3️⃣ AboutScreen – Informasi tentang aplikasi dan tim pengembang.
 
 👥 Tim Pengembang
-Nuhamad Aziz Nuriman – (NIM: 2100012345)
-Muh Faiz Ilham Maulana – (NIM: 2100012346)
-Uden Saptoni – (NIM: 2100012347)
+Nuhamad Aziz Nuriman – (NIM: 17221019)
+Muh Faiz Ilham Maulana – (NIM: 17223008)
+Uden Saptoni – (NIM: 17223026)
 📂 Cara Menjalankan Proyek
 Clone repository ini:
 sh
